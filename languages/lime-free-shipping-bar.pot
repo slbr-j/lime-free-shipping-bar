@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lime Free Shipping Bar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-18 22:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: lime-free-shipping-bar"
+
+#: includes/admin-page.php:120
+msgid "Amount Color"
+msgstr ""
+
+#: includes/admin-page.php:112
+msgid "Bar Background Color"
+msgstr ""
+
+#: includes/admin-page.php:101 includes/helpers.php:7
+msgid "Congratulations, you get free shipping!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Displays a top bar with a progress bar for free shipping in WooCommerce. "
+"Glory to Ukraine!"
+msgstr ""
+
+#: includes/admin-page.php:7
+msgid "Free Shipping Bar"
+msgstr ""
+
+#: includes/admin-page.php:6 includes/admin-page.php:83
+msgid "Free Shipping Bar Settings"
+msgstr ""
+
+#: includes/admin-page.php:92
+#, php-format
+msgid "Free Shipping Currency (%s)"
+msgstr ""
+
+#: includes/admin-page.php:96
+#, php-format
+msgid "Free Shipping for Orders Over Message (%s)"
+msgstr ""
+
+#: includes/admin-page.php:97 includes/helpers.php:6
+msgid "Free shipping for orders over {amount}"
+msgstr ""
+
+#: includes/admin-page.php:100
+#, php-format
+msgid "Free Shipping Message (%s)"
+msgstr ""
+
+#: includes/admin-page.php:87
+msgid "Free Shipping Threshold"
+msgstr ""
+
+#: includes/admin-page.php:104
+#, php-format
+msgid "Insufficient Amount Message (%s)"
+msgstr ""
+
+#. Name of the plugin
+msgid "Lime Free Shipping Bar"
+msgstr ""
+
+#: includes/admin-page.php:128
+msgid "Progress Bar Background Color"
+msgstr ""
+
+#: includes/admin-page.php:124
+msgid "Progress Bar Color"
+msgstr ""
+
+#: includes/admin-page.php:137
+msgid "Reset Settings to Default"
+msgstr ""
+
+#: includes/admin-page.php:133
+msgid "Save Settings"
+msgstr ""
+
+#: lime-free-shipping-bar.php:58
+msgid "Settings"
+msgstr ""
+
+#: includes/admin-page.php:70
+msgid "Settings reset to defaults"
+msgstr ""
+
+#: includes/admin-page.php:47
+msgid "Settings saved"
+msgstr ""
+
+#: includes/admin-page.php:116
+msgid "Text Color"
+msgstr ""
+
+#: includes/admin-page.php:93 includes/helpers.php:5
+msgid "UAH"
+msgstr ""
+
+#: includes/admin-page.php:106 includes/admin-page.php:107
+msgid "Use {amount} to indicate the remaining amount."
+msgstr ""
+
+#: includes/admin-page.php:106 includes/helpers.php:8
+msgid "{amount} to get free shipping"
+msgstr ""
